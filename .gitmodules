@@ -1,0 +1,4 @@
+[submodule "Middlewares/Third_Party/DalaBYD"]
+	path = Middlewares/Third_Party/DalaBYD
+	url = https://github.com/dalathegreat/BYD-Battery-Emulator-For-Gen24.git
+	branch = main
