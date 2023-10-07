@@ -35,7 +35,7 @@ You must make a connection from the bottom of C22 to the bottom of C21.
 
 ## Building
 Install the arm-none-eabi tools.
-> apt install arm-none-eabi-gcc <br/>
+> apt install gcc-arm-none-eabi <br/>
 > make
 
 ## Flashing
